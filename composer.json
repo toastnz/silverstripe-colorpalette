@@ -15,7 +15,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-main": "6.0.0-beta1-dev"
+            "dev-main": "6.0.1-beta1-dev"
         },
         "expose": [
             "css",
